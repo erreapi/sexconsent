@@ -1,0 +1,1 @@
+export default function MultilangVersion(){return <div>ConsentSpark v2 Multilingual</div>}
