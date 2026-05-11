@@ -1,0 +1,1 @@
+export default function Prototype(){return <div className='p-10 text-2xl'>ConsentSpark Prototype v1</div>}
